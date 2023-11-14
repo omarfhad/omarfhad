@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @omarfhad
-- 👀 I’m interested in Cloud/Edge Computing
+- 👀 I’m interested in ML field
 - 🌱 I’m currently PhD Student
 - 💞️ I’m looking to collaborate on Research Fields
 - 📫 How to reach me you can email me : omar-fahad@live.com
